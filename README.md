@@ -1,4 +1,5 @@
 ## Тестовая задача для собеседований на позицию Web-разработчика (React)
+![2024-08-16_17-08-19](https://github.com/user-attachments/assets/f469851d-5ca1-4dae-804a-cfe4a33776e4)
 
 Необходимо реализовать Web-приложение для поиска репозиториев GitHub с помощью
 GitHub REST API или GitHub GraphQL API (последний будет плюсом).
