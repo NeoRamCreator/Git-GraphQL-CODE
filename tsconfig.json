@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "test/generated", "test/Main.tsx", "test/UserComponent.tsx", "test/Table.tsx", "test/RepositoryList.tsx", "test/App copy.tsx", "test/apiSlice copy.tsx"  ]
 }
